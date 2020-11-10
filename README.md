@@ -1,2 +1,2 @@
-# Class-_21
-Writing the functions for four objects
+# collisionAlgorithm
+Algorithm to detect collision between two objects
